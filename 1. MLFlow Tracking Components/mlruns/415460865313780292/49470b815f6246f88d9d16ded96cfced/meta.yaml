@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/STUDY/MLops/PycharmFiles/MLops2024/1.MLFlow_Tracking_Components/mlruns/415460865313780292/49470b815f6246f88d9d16ded96cfced/artifacts
+end_time: 1707542250718
+entry_point_name: ''
+experiment_id: '415460865313780292'
+lifecycle_stage: active
+run_id: 49470b815f6246f88d9d16ded96cfced
+run_name: invincible-kite-696
+run_uuid: 49470b815f6246f88d9d16ded96cfced
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707542240533
+status: 3
+tags: []
+user_id: aakas

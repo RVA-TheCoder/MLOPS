@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/STUDY/MLops/PycharmFiles/MLops2024/1.MLFlow_Tracking_Components/mlruns/415460865313780292/9214ce13ae53423b9a1962391da17084/artifacts
+end_time: 1707542982427
+entry_point_name: ''
+experiment_id: '415460865313780292'
+lifecycle_stage: active
+run_id: 9214ce13ae53423b9a1962391da17084
+run_name: receptive-smelt-470
+run_uuid: 9214ce13ae53423b9a1962391da17084
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707542973477
+status: 3
+tags: []
+user_id: aakas

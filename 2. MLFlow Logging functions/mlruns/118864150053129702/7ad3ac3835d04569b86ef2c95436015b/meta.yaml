@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/STUDY/MLops/PycharmFiles/MLops2024/2.MLFlow_Logging_Functions/mlruns/118864150053129702/7ad3ac3835d04569b86ef2c95436015b/artifacts
+end_time: 1708386664234
+entry_point_name: ''
+experiment_id: '118864150053129702'
+lifecycle_stage: active
+run_id: 7ad3ac3835d04569b86ef2c95436015b
+run_name: clean-dolphin-153
+run_uuid: 7ad3ac3835d04569b86ef2c95436015b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708386648963
+status: 3
+tags: []
+user_id: aakas

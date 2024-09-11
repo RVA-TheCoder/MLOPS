@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/STUDY/MLops/PycharmFiles/MLops2024/2.MLFlow_Logging_Functions/mlruns/118864150053129702/b567450bfa7f4c4eb6de5d79e0162e03/artifacts
+end_time: 1708176109961
+entry_point_name: ''
+experiment_id: '118864150053129702'
+lifecycle_stage: active
+run_id: b567450bfa7f4c4eb6de5d79e0162e03
+run_name: aged-boar-123
+run_uuid: b567450bfa7f4c4eb6de5d79e0162e03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708176103154
+status: 3
+tags: []
+user_id: aakas

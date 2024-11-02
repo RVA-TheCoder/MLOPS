@@ -1,0 +1,12 @@
+digest: 3568ce10
+name: dataset
+profile: '{"num_rows": 320, "num_elements": 3520}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "fixed acidity"}, {"type":
+  "double", "name": "volatile acidity"}, {"type": "double", "name": "citric acid"},
+  {"type": "double", "name": "residual sugar"}, {"type": "double", "name": "chlorides"},
+  {"type": "double", "name": "free sulfur dioxide"}, {"type": "double", "name": "total
+  sulfur dioxide"}, {"type": "double", "name": "density"}, {"type": "double", "name":
+  "pH"}, {"type": "double", "name": "sulphates"}, {"type": "double", "name": "alcohol"}]}'
+source: '{"tags": {"mlflow.user": "aakas", "mlflow.source.name": "E:\\STUDY\\MLops\\PycharmFiles\\MLops2024\\4.AutoLogging\\1_TrackingServer.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

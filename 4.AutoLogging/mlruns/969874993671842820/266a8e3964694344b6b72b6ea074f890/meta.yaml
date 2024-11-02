@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/STUDY/MLops/PycharmFiles/MLops2024/4.AutoLogging/mlruns/969874993671842820/266a8e3964694344b6b72b6ea074f890/artifacts
+end_time: 1708953411046
+entry_point_name: ''
+experiment_id: '969874993671842820'
+lifecycle_stage: active
+run_id: 266a8e3964694344b6b72b6ea074f890
+run_name: rebellious-bug-953
+run_uuid: 266a8e3964694344b6b72b6ea074f890
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708953337136
+status: 3
+tags: []
+user_id: aakas
